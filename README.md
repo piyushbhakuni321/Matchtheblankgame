@@ -19,9 +19,7 @@ This is a **React Native game** developed as part of a Cognitii interview assign
 ---
 
 ## 📽 Demo Video
-
-👉 [Watch Demo](https://github.com/yourusername/cognitii-game/assets/demo-video.mp4)
-
+https://github.com/user-attachments/assets/3179986e-cb12-407d-9593-49c1fc5b4424
 ---
 
 ## 🖼 Screenshots
